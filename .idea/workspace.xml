@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db77457f-4329-44de-b8c3-626fee56bbb8" name="Default Changelist" comment="&quot;公司git第一次提交&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mytest001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/working_test" beforeDir="false" afterPath="$PROJECT_DIR$/working_test" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:lidonghui123/mytest001.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZpR2TP0oHJKR4oOUpwpxzKiojo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db77457f-4329-44de-b8c3-626fee56bbb8" name="Default Changelist" comment="" />
+      <created>1585533841537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585533841537</updated>
+      <workItem from="1585533843321" duration="2674000" />
+    </task>
+    <task id="LOCAL-00001" summary="&quot;公司git第一次提交&quot;">
+      <created>1585534234658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585534234658</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;公司git第一次提交&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;公司git第一次提交&quot;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="873" y="481" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585534178342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="873" y="481" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585534178342" />
+    <state x="781" y="220" key="CommitChangelistDialog2" timestamp="1585536621721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="781" y="220" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585536621721" />
+    <state x="733" y="375" key="Vcs.Push.Dialog.v2" timestamp="1585535864693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="733" y="375" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585535864693" />
+    <state x="853" y="270" key="git4idea.merge.GitPullDialog" timestamp="1585535068560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="853" y="270" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585535068560" />
+  </component>
+</project>
