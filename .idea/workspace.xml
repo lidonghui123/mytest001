@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db77457f-4329-44de-b8c3-626fee56bbb8" name="Default Changelist" comment="">
+    <list default="true" id="db77457f-4329-44de-b8c3-626fee56bbb8" name="Default Changelist" comment="&quot;公司git对dev进行master合并&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,36 +74,92 @@
       <option name="project" value="LOCAL" />
       <updated>1585534234658</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;公司git对dev进行合并&quot;">
+      <created>1585536936847</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585536936847</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;公司git对dev进行合并&quot;">
+      <created>1585537266611</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585537266611</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;git对dev进行第二次合并&quot;">
+      <created>1585538028139</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585538028139</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;公司git第一次提交&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;公司git第一次提交&quot;" />
+    <MESSAGE value="&quot;公司git对dev进行合并&quot;" />
+    <MESSAGE value="&quot;git对dev进行第二次合并&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;git对dev进行第二次合并&quot;" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="762" y="213" key="#Notifications" timestamp="1585537101334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="762" y="213" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1585537101334" />
     <state x="873" y="481" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585534178342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="873" y="481" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585534178342" />
-    <state x="781" y="220" key="CommitChangelistDialog2" timestamp="1585536621721">
+    <state x="781" y="220" key="CommitChangelistDialog2" timestamp="1585539226415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="781" y="220" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585536621721" />
-    <state x="733" y="375" key="Vcs.Push.Dialog.v2" timestamp="1585535864693">
+    <state x="781" y="220" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585539226415" />
+    <state x="368" y="126" key="MergeDialog" timestamp="1585539168055">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="733" y="375" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585535864693" />
-    <state x="853" y="270" key="git4idea.merge.GitPullDialog" timestamp="1585535068560">
+    <state x="368" y="126" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585539168055" />
+    <state x="879" y="270" key="MultipleFileMergeDialog" timestamp="1585539168064">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="733" y="375" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585536764898" />
-    <state x="853" y="270" key="git4idea.merge.GitPullDialog" timestamp="1585536837397">
+    <state x="879" y="270" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585539168064" />
+    <state x="733" y="375" key="Vcs.Push.Dialog.v2" timestamp="1585539206482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="853" y="270" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585536837397" />
+    <state x="733" y="375" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585539206482" />
+    <state x="472" y="249" width="1156" height="615" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585537141853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="472" y="249" width="1156" height="615" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585537141853" />
+    <state x="932" y="266" key="git4idea.branch.GitSmartOperationDialog" timestamp="1585539156750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="932" y="266" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585539156750" />
+    <state x="853" y="270" key="git4idea.merge.GitPullDialog" timestamp="1585538747094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="853" y="270" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585538747094" />
+    <state x="892" y="466" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1585537229285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="892" y="466" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585537229285" />
   </component>
 </project>
